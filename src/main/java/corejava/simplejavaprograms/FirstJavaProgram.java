@@ -6,6 +6,7 @@ public class FirstJavaProgram {
         System.out.println("My first java program");
         System.out.println("This is my second statement");
         System.out.println("This is my third statement");
+        System.out.println("This is my fourth statement");
 
     }
 
